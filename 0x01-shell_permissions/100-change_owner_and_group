@@ -1,4 +1,2 @@
 #!/bin/bash
 sudo chown vicent:staff 0x01-shell_permissions
-
-
